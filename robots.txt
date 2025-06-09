@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nicolasllanos.github.io/sitemap.xml
+Sitemap: https://neuta.github.io/portfolio/sitemap.xml
